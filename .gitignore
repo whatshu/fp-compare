@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+_fp128_x86.so
